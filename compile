@@ -1,0 +1,2 @@
+gfortran -ffixed-line-length-132 -std='legacy' -O2 gasdev.f ran1.f synthcmdZ.f loadPDsetiso.f  mainZ.f readdatangc6811.f starprobabilityZ.f proposeZ.f methastZ.f randmassZ.f -o ../runs/mcmc6811_pd.x
+ 
